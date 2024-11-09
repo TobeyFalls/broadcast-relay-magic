@@ -1,0 +1,5 @@
+coloredlogs~=15.0.1
+humanfriendly~=10.0
+pyreadline3~=3.5.4
+ruff~=0.7.3
+scapy~=2.6.0
